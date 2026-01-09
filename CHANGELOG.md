@@ -1,3 +1,7 @@
+## [2.7.17](https://github.com/smintio/vue/compare/v2.7.16...v2.7.17) (2026-01-09)
+
+
+
 ## [2.7.17](https://github.com/smintio/vue/compare/v2.7.16...v2.7.17) (2026-01-07)
 
 

@@ -1,5 +1,5 @@
 {
-  "name": "@vue/compiler-sfc",
+  "name": "@smintio/compiler-sfc",
   "version": "2.7.17",
   "description": "compiler-sfc for Vue 2",
   "main": "dist/compiler-sfc.js",

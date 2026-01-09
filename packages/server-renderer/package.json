@@ -1,5 +1,5 @@
 {
-  "name": "vue-server-renderer",
+  "name": "@smintio/vue-server-renderer",
   "version": "2.7.17",
   "description": "server renderer for Vue 2.0",
   "main": "index.js",
