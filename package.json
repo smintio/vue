@@ -1,5 +1,5 @@
 {
-  "name": "vue",
+  "name": "@smintio/vue",
   "version": "2.6.11",
   "description": "Reactive, component-oriented view layer for modern web interfaces.",
   "main": "dist/vue.runtime.common.js",
@@ -55,7 +55,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vuejs/vue.git"
+    "url": "git+https://github.com/smintio/vue.git"
   },
   "keywords": [
     "vue"

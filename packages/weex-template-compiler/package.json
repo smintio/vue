@@ -1,5 +1,5 @@
 {
-  "name": "weex-template-compiler",
+  "name": "@smintio/weex-template-compiler",
   "version": "2.4.2-weex.1",
   "description": "Weex template compiler for Vue 2.0",
   "main": "index.js",

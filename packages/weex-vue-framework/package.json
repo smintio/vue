@@ -1,5 +1,5 @@
 {
-  "name": "weex-vue-framework",
+  "name": "@smintio/weex-vue-framework",
   "version": "2.4.2-weex.1",
   "description": "Vue 2.0 Framework for Weex",
   "main": "index.js",
